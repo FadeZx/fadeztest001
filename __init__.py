@@ -1,1 +1,0 @@
-from pythonsohard.myname import fullname
